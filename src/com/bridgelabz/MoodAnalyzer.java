@@ -13,6 +13,6 @@ public class MoodAnalyzer {
 
     public static void main(String[] args) {
         MoodAnalyzer moodAnalyser = new MoodAnalyzer();
-        moodAnalyser.analyseMood("I'm in sad mood today");
+        moodAnalyser.analyseMood("I'm in any mood today");
     }
 }
